@@ -1,0 +1,11 @@
+scipy
+pandas
+numpy
+matplotlib
+tensorflow
+torch
+torchvision
+lxml
+scikit-learn
+seaborn
+graphviz
